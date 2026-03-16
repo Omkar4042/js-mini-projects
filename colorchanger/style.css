@@ -1,0 +1,42 @@
+html {
+  margin: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+span {
+  display: block;
+}
+
+.canvas {
+  margin: 100px auto;
+  width: 400px;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+
+#blue {
+  background: blue;
+}
+
+#yellow {
+  background: yellow;
+}
